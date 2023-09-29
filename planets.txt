@@ -9,3 +9,5 @@ Jupiter
 Saturn
 Pluto
 Uranus
+ - Leberkas
+ - Semmalgang
