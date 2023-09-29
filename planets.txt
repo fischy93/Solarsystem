@@ -6,7 +6,7 @@ Earth
 Mars
 Jupiter
  -Europa
-Saturn
+SaturnUp
 UrAnus
 
 
@@ -15,3 +15,5 @@ UrAnus
 
 
 (Pluto)
+wo is mei Burger
+in deinem UrAnus (siehe oben)
